@@ -1,0 +1,11 @@
+{
+	"name":"ps",
+	"dependencies" : {
+		
+	},
+	"devDependencies" : {
+		"grunt" : "*",
+		"grunt-contrib-jshint":"*",
+		"grunt-contrib-jshint":"*"
+	}	
+}
